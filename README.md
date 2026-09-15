@@ -12,6 +12,27 @@ Before this system, a person looking for a rental property had to physically vis
 
 ---
 
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Register Page
+![Register Page](screenshots/register.png)
+
+### Renter Dashboard
+![Renter Dashboard](screenshots/renter-dashboard.png)
+
+### Owner Dashboard
+![Owner Dashboard](screenshots/owner-dashboard.png)
+
+### Add Property
+![Add Property](screenshots/add-property.png)
+
+### Admin Dashboard
+![Admin Dashboard1](screenshots/admin-dasboard1.png)
+![Admin Dashboard2](screenshots/admin-dasboard2.png)
+
 ## Features
 
 - **Owner**: Register, list properties with images, manage rental requests (accept/reject/update)
@@ -230,6 +251,6 @@ You will be redirected to the login page automatically.
 
 ## Course Information
 
-- **Course**: Web Programming (CSWP-265)
+- **Course**: Web Programming 
 - **University**: National University of Modern Languages (NUML), Islamabad
 - **Department**: Computer Science
