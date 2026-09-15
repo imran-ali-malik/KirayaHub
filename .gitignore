@@ -1,0 +1,4 @@
+uploads/*
+!uploads/.gitkeep
+fix_admin.php
+reset_admin.php
