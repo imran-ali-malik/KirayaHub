@@ -226,10 +226,4 @@ You will be redirected to the login page automatically.
 - Only one admin account exists - it cannot be created through the registration form
 - To test with two accounts simultaneously, use one normal browser window and one incognito window
 
----
 
-## Course Information
-
-- **Course**: Web Programming (CSWP-265)
-- **University**: National University of Modern Languages (NUML), Islamabad
-- **Department**: Computer Science
