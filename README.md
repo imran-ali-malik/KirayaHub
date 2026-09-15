@@ -11,26 +11,6 @@ KirayaHub is a full-stack web application that connects property owners and rent
 Before this system, a person looking for a rental property had to physically visit multiple areas, ask around, and rely on middlemen. This wasted time and money for both owners and renters. KirayaHub eliminates unnecessary trips by moving the entire process online.
 
 ---
-## Screenshots
-
-### Login Page
-![Login Page](screenshots/login.png)
-
-### Register Page
-![Register Page](screenshots/register.png)
-
-### Renter Dashboard
-![Renter Dashboard](screenshots/renter-dashboard.png)
-
-### Owner Dashboard
-![Owner Dashboard](screenshots/owner-dashboard.png)
-
-### Add Property
-![Add Property](screenshots/add-property.png)
-
-### Admin Dashboard
-![Admin Dashboard1](screenshots/admin-dasboard1.png)
-![Admin Dashboard2](screenshots/admin-dasboard2.png)
 
 ## Features
 
